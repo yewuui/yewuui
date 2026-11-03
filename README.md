@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+<p align="center">
+  <a href="https://skansaba.dev">
+    <img src="https://skansaba.dev?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aziz+%F0%9F%91%8B;Front-end+Developer;Python+%26+TypeScript+Enthusiast;Building+scalable+web+applications;Always+learning+something+new" alt="Typing SVG" />
+  </a>
+</p>
 <!--
 **yewuui/yewuui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
